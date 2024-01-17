@@ -11,12 +11,12 @@ Apenas: Markdown
 # Quebra de Linhas:
 3 formas:
 - Deixando uma linha em branco (enter)
-- Usando \<br\> <br> - Deixar 2 espaços no final da linha (não é muito recomendado)
+- Usando \<br\> <br>- Deixar 2 espaços no final da linha (não é muito recomendado)
 
 # Blocos de Citação/Comentário:
 
 > Exemplo1
-> com quebra de linha
+com quebra de linha
 
 > Exemplo2<br>
 com quebra de linha \<br\>
