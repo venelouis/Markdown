@@ -23,4 +23,4 @@ Apenas: Markdown
 com quebra de linha \<br\>
 
 # imagens:
-![descrição da imagem] ( https://imgs.search.brave.com/53-dWoNGpST3dbBTSkxC9A8ciLJVCQWmRk4Q4UDNu-8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzI5L0dpdEh1Yl9s/b2dvXzIwMTMuc3Zn.svg )
+![descrição da imagem] (https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/GitHub_logo_2013.svg/1920px-GitHub_logo_2013.svg.png)
