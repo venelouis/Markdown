@@ -26,4 +26,4 @@ com quebra de linha \<br\>
 ![descrição da imagem](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
 
 # Destaque:
-**negrito** e _italíco_ ou os 2: **_negrito italico_**
+**Negrito**, _itálíco_ ou os dois juntos: **_Negrito-itálico_**
