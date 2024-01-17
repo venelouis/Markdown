@@ -41,3 +41,6 @@ print("hello world!")
 ## Links:
 [Link](https://www.google.com/)
 
+## Ignorar Edição:
+basta utilizar \\
+
