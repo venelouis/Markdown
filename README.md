@@ -42,5 +42,7 @@ print("hello world!")
 [Link](https://www.google.com/)
 
 ## Ignorar Edição:
-basta utilizar \\ exemplo: \\\ *\*
+basta utilizar \\ 
+
+exemplos: \\\ *\*
 
