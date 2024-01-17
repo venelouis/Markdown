@@ -1,19 +1,17 @@
-# Markdown
-Apenas: Markdown
+# Apenas: Markdown (título h1)
 
-# Este é um título h1
 ## Título h2
 ### h3
 #### h4
 ##### h5
 
 
-# Quebra de Linhas:
+## Quebra de Linhas:
 3 formas:
 - Deixando uma linha em branco (enter)
 - Usando \<br\> <br>- Deixar 2 espaços no final da linha (não é muito recomendado)
 
-# Blocos de Citação/Comentário:
+## Blocos de Citação/Comentário:
 
 > Exemplo1
 
@@ -22,24 +20,24 @@ Apenas: Markdown
 > Exemplo2<br>
 com quebra de linha \<br\>
 
-# imagens:
+## imagens:
 ![descrição da imagem](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
 
-# Destaque:
+## Destaque:
 **Negrito**, _itálíco_ ou os dois juntos: **_Negrito-itálico_**
 
-# Listas:
+## Listas:
 - item1
   - sub-item1
       - sub-sub-item1
           - sub...item1
 ---
-# Quebra de Seção (Linha horizontal)
----
-# Bloco de código:
+## Quebra de Seção (Linha horizontal)
+
+## Bloco de código:
 ```
 print("hello world!")
 ```
-# Links:
-[link1](https://www.google.com/)
+## Links:
+[Link](https://www.google.com/)
 
