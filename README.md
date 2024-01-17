@@ -16,7 +16,8 @@ Apenas: Markdown
 # Blocos de Citação/Comentário:
 
 > Exemplo1
-com quebra de linha
+
+> com quebra de linha
 
 > Exemplo2<br>
 com quebra de linha \<br\>
