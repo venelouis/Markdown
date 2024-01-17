@@ -31,9 +31,9 @@ com quebra de linha \<br\>
   - sub-item1
       - sub-sub-item1
           - sub...item1
----
-## Quebra de Seção (Linha horizontal)
 
+## Quebra de Seção (Linha horizontal)
+---
 ## Bloco de código:
 ```
 print("hello world!")
