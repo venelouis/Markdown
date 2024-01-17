@@ -33,3 +33,8 @@ com quebra de linha \<br\>
   - sub-item1
       - sub-sub-item1
           - sub...item1
+---
+# Bloco de código e separação:
+```
+print("hello world!")
+```
