@@ -24,3 +24,7 @@ com quebra de linha \<br\>
 
 # imagens:
 ![descrição da imagem](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
+
+# Destaque:
+**negrito**
+_italíco_
