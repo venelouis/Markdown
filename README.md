@@ -27,3 +27,7 @@ com quebra de linha \<br\>
 
 # Destaque:
 **Negrito**, _itálíco_ ou os dois juntos: **_Negrito-itálico_**
+
+# Listas:
+- item1
+-   sub-item
