@@ -30,4 +30,4 @@ com quebra de linha \<br\>
 
 # Listas:
 - item1
--   sub-item
+  - sub-item
