@@ -23,7 +23,7 @@ com quebra de linha \<br\>
 ## imagens:
 ![descrição da imagem](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
 
-## Pra mudar o tamanho da imagem apenas com linguagem HTML:
+## *pra mudar o tamanho da imagem apenas com linguagem HTML:
 <img align="center" width="40px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"></a>
 
 
