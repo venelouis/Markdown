@@ -50,8 +50,8 @@ basta utilizar \\
 
 exemplos: \\\ *\*
 
-# Extras:
-## Utilitários para o Profile README
+# Extra:
+## Utilitários para o Profile README.md
 <table>
   <thead>
     <tr align="left">
